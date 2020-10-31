@@ -20,7 +20,7 @@
 	a.	Newspaper articles (API)
 3.	What was the Economic Impact of COVID-19: unemployment, (regression with variables)
 	a.	regression
-4.	COVID-19 and impact on other mortality rates going down
+4.	COVID-19 and impact on mortality due to lifestyle (driving, drinking, drug overdose)
 5.	Differences between COVID-19 Infections and normal Flu
 6.	Key patterns observed between flattening the curve and responses
 7.	Key patterns observed between responses and long-term economic impact
