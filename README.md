@@ -26,7 +26,7 @@
 7.	Key patterns observed between responses and long-term economic impact
 
 
-###Roles
+### Roles
 
 *	Pulling data - Nihal Joshua
 *	Cleaning and transformation - Moné-Renata Holder
