@@ -14,18 +14,14 @@
 
 ### Questions
 
-1.	COVID-19 Waves across specific regions (continental responses: NA, Asia, Africa, Australia, India, Latina America & the Caribbean)
-	a.	Matplotlib
-2.	COVID-19 Interventions and Success
-	a.	Newspaper articles (API)
-3.	What was the Economic Impact of COVID-19: unemployment, (regression with variables)
-	a.	regression
-4.	COVID-19 and impact on mortality due to lifestyle (driving, drinking, drug overdose)
-5.	Differences between COVID-19 Infections and normal Flu
-6.	Key patterns observed between flattening the curve and responses
-7.	Key patterns observed between responses and long-term economic impact
-
-
+1.	What is the wave of COVID-19 in Canada?
+	a.	From February 2020 to September 2020.
+2.	What is the impact of COVID-19 on unemployment in Canada?
+3.	What is the impact of COVID-19 infections on excess deaths? 
+4.	Is their a trend between COVID-19 related deaths, and deaths due to seasonal flu (pneumonia and influenza)?
+5.	What are the key patterns observed between interventions and economic impact?
+	a.	COVID-19 vs. GDP growth for different countries
+	
 ### Roles
 
 *	Pulling data - Nihal Joshua
