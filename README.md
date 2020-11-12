@@ -9,7 +9,7 @@
 
 
 
-## COVID-19: analysis, visualization, and comparison of interventions across different countries
+## COVID-19: Analysis and Visualization
 
 
 ### Questions
