@@ -18,7 +18,7 @@
 2.	What is the impact of COVID-19 on unemployment in Canada?
 3.	What is the impact of COVID-19 infections on excess deaths? 
 4.	Is their a trend between COVID-19 related deaths, and deaths due to seasonal flu (pneumonia and influenza) in the USA?
-5.	What are the key patterns observed between interventions and economic impact? That is, COVID-19 vs. GDP growth for different countries
+5.	What are the key patterns observed between interventions and economic impact? That is, COVID-19 vs. GDP growth for different countries?
 	
 ### Roles
 
